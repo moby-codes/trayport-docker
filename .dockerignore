@@ -1,0 +1,14 @@
+# Ignore build directories
+bin/
+obj/
+
+# Ignore system-specific files and settings
+.vscode/
+.git/
+
+# Ignore Dockerfile itself (if needed)
+Dockerfile
+
+# Ignore any other files you don’t need in the container
+*.md
+*.log
