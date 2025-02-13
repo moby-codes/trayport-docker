@@ -1,0 +1,15 @@
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/moby/Desktop/Projects/trayport/trayport-docker/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll

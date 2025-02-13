@@ -16,7 +16,7 @@ dotnet sln add ./Tests/Tests.csproj ./ConsoleApp/ConsoleApp.csproj
 ``` 
 You should then be able to compile the dummy project via dotnet build and run it via
 ``` 
-dotnet run --project ConsoleApp.
+dotnet run --project ConsoleApp
 ``` 
 
 Once you’ve got that working, write a Dockerfile that performs the following:
