@@ -15,7 +15,7 @@ RUN dotnet restore
 RUN dotnet test
 
 # Build and publish a release
-RUN dotnet publish -o out
+RUN dotnet publish --configuration Release -o /app/publish
 
 # Build runtime image
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
