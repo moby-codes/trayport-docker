@@ -13,7 +13,9 @@ dotnet new sln --name Interview
 dotnet new console -o ConsoleApp
 dotnet new nunit -o Tests
 dotnet sln add ./Tests/Tests.csproj ./ConsoleApp/ConsoleApp.csproj
+``` 
 You should then be able to compile the dummy project via dotnet build and run it via
+``` 
 dotnet run --project ConsoleApp.
 ``` 
 
