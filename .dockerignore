@@ -1,6 +1,8 @@
 # Ignore build directories
 bin/
 obj/
+out/
+TestResults/
 
 # Ignore system-specific files and settings
 .vscode/
