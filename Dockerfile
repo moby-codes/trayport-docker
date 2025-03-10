@@ -1,7 +1,7 @@
 
 #  Adding the .NET image mcr.microsoft.com/dotnet/sdk:8.0 which is the latest version with full support, can be found here https://learn.microsoft.com/en-us/dotnet/architecture/microservices/net-core-net-framework-containers/official-net-docker-images
 # Specifying the base image
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+FROM mcr.microsoft.com/dotnet/sdk:8.0-alpine AS build
 
 WORKDIR /src
 
